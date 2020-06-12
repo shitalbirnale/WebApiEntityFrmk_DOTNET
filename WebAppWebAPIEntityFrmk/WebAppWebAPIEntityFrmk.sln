@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppWebAPIEntityFrmk", "WebAppWebAPIEntityFrmk\WebAppWebAPIEntityFrmk.csproj", "{8C0FB4A3-EF8E-4AA8-ACA6-BC99B70B87E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C0FB4A3-EF8E-4AA8-ACA6-BC99B70B87E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0FB4A3-EF8E-4AA8-ACA6-BC99B70B87E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0FB4A3-EF8E-4AA8-ACA6-BC99B70B87E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0FB4A3-EF8E-4AA8-ACA6-BC99B70B87E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C398C3E5-BE4E-42CA-A3AF-B45E0F1E79B5}
+	EndGlobalSection
+EndGlobal
